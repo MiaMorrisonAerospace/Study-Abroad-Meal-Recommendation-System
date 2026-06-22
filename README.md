@@ -5,7 +5,7 @@ Overview
 -
 I created this MATLAB Meal Recommendation System before studying abroad in Australia to help myself and my peers quickly identify nutritious meals that fit their dietary preferences, cooking time, and nutritional goals.
 
-The program uses an Excel-based recipe database and prompts users to select their desired meal type, protein source, and available cooking time. Based on the user's inputs, the system recommends a high-protein, lower-calorie meal option.
+The program uses an Excel-based recipe database and prompts users to select their desired meal type, protein source, and available cooking time. Based on the user's inputs, the system automatically populates a high-protein, lower-calorie meal recipe website.
 
 This project was created to apply programming skills to a real-world problem involving nutrition, budgeting, and meal planning.
 
