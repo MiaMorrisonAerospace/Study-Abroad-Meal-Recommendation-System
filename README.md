@@ -1,5 +1,9 @@
 # MATLAB-Study-Abroad-Meal-Recommendation-System
-MATLAB-based meal recommendation system that generates high-protein, lower-calorie recipes based on meal type, protein preference, and available cooking time using an Excel recipe database.
+MATLAB-based healthy meal recommendation system that generates high-protein, low-calorie recipes based on meal type, protein preference, and available cooking time using an Excel recipe database.
+
+
+https://github.com/user-attachments/assets/24241d80-bd35-431c-800e-219c34008785
+
 
 Overview
 -
