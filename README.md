@@ -2,7 +2,11 @@
 MATLAB-based healthy meal recommendation system that generates high-protein, low-calorie recipes based on meal type, protein preference, and available cooking time using an Excel recipe database.
 
 
-https://github.com/user-attachments/assets/24241d80-bd35-431c-800e-219c34008785
+
+
+https://github.com/user-attachments/assets/a73fbaee-4894-4a84-8eb9-234209781456
+
+
 
 
 Overview
